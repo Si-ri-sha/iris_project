@@ -11,6 +11,10 @@
         {
             "message": "great!",
             "response": "IRIS remembers! great!"
+        },
+        {
+            "message": "I had a fantastic day!",
+            "response": "That's wonderful to hear! \ud83d\ude0a"
         }
     ]
 }
