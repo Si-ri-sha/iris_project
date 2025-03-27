@@ -1,0 +1,29 @@
+[
+    {
+        "message": "good",
+        "score": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4404
+        }
+    },
+    {
+        "message": "good",
+        "score": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4404
+        }
+    },
+    {
+        "message": "good",
+        "score": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4404
+        }
+    }
+]
