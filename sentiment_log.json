@@ -1,29 +1,34 @@
-[
-    {
-        "message": "good",
-        "score": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4404
+{
+    "Sirisha": [
+        {
+            "message": "im feeling good",
+            "response": "That's wonderful to hear! Keep shining! \ud83d\ude0a",
+            "sentiment": "positive"
+        },
+        {
+            "message": "good",
+            "response": "I see! If you ever need to talk, I'm here. \u2615",
+            "sentiment": "neutral"
+        },
+        {
+            "message": "good",
+            "response": "I see! If you ever need to talk, I'm here. \u2615",
+            "sentiment": "neutral"
+        },
+        {
+            "message": "im feeling sad",
+            "response": "I see! If you ever need to talk, I'm here. \u2615",
+            "sentiment": "neutral"
+        },
+        {
+            "message": "i feel so happy",
+            "response": "That's wonderful to hear! Keep shining! \ud83d\ude0a",
+            "sentiment": "positive"
+        },
+        {
+            "message": "I feel sad, horrible",
+            "response": "I'm here for you. Remember, tough times don't last, but tough people do. \ud83d\udc99",
+            "sentiment": "negative"
         }
-    },
-    {
-        "message": "good",
-        "score": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4404
-        }
-    },
-    {
-        "message": "good",
-        "score": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4404
-        }
-    }
-]
+    ]
+}
